@@ -1,4 +1,4 @@
-![Codewars](https://www.codewars.com/users/dave_tree_beard/badges/large?theme=light)
+![Codewars](https://www.codewars.com/users/dave_tree_beard/badges/micro?theme=light)
 <!--
 **tree-beard/tree-beard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
